@@ -1,3 +1,3 @@
 - Hello, I'm @antoniomanuelnd and here I upload useful code which I use everyday.
 - Currently I'm working with Altitude and GoContact to create telemarketing campaigns, and learning Golang to automate different tasks.
-- You can contact me through email: antoniomanuelnd@gmail.com
+- 📧 You can contact me through email: antoniomanuelnd@gmail.com
